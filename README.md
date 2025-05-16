@@ -1,6 +1,6 @@
 # Robocop 2024 – Rescue Maze
 
-This repository contains the source code and design resources for the **Rescue Maze** robot developed by **Team Golden Dragon** for the Robocop 2024 competition. As the lead programmer, I was responsible for implementing the robot’s core logic, including pathfinding, sensor integration, and PID-based motor control.
+This repository contains the source code and design resources for the **Rescue Maze** robot developed by **The Golden Dragon Team** for the Robocop 2024 competition. As the lead programmer, I was responsible for implementing the robot’s core logic, including pathfinding, sensor integration, and PID-based motor control.
 
 ---
 
